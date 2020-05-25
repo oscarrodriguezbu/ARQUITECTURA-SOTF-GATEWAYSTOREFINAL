@@ -1,0 +1,29 @@
+{
+  "gatewaystoreApp": {
+    "facturacionmicroservicioFactura": {
+      "home": {
+        "title": "Facturas",
+        "createLabel": "Crear nuevo Factura",
+        "createOrEditLabel": "Crear o editar Factura",
+        "notFound": "Ningún Facturas encontrado"
+      },
+      "delete": {
+        "question": "¿Seguro que quiere eliminar Factura {{ id }}?"
+      },
+      "detail": {
+        "title": "Factura"
+      },
+      "fecha": "Fecha",
+      "valor": "Valor",
+      "fechaPago": "Fecha Pago",
+      "cliente": "Cliente"
+    }
+  },
+  "facturacionmicroservicioApp": {
+    "facturacionmicroservicioFactura": {
+      "created": "Un nuevo Factura ha sido creado con el identificador {{ param }}",
+      "updated": "Un Factura ha sido actualizado con el identificador {{ param }}",
+      "deleted": "Un Factura ha sido eliminado con el identificador {{ param }}"
+    }
+  }
+}
